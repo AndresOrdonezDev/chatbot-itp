@@ -1,0 +1,89 @@
+{
+    "intents": [
+        {
+            "tag": "saludo",
+            "patterns": [
+                "hola",
+                "Buenos dias",
+                "Buenas tardes",
+                "que mas"
+            ],
+            "responses": [
+                "Hola!,¿En qué puedo ayudarte hoy?",
+                "Como estas!, como puedo ayudarte?",
+                "Hola, como puedo ayudarte?",
+                "todo bien!, cuéntame como te ayudo?"
+            ]
+        },
+        {
+            "tag": "rector",
+            "patterns": [
+                "quien es el rector",
+                "como se llama el rector",
+                "me puedes decir como se llama el rector"
+            ],
+            "responses": [
+                "Miguel Angel Canchala",
+                "El rector se llama Miguel Angel Canchala",
+                "Hasta el año 2024 es Miguel Angel Canchala"
+            ]
+        },
+        {
+            "tag": "consejo_directivo",
+            "patterns": [
+                "que es el consejo directivo",
+                "quien es el consejo directivo",
+                "quienes conforman el consejo directivo",
+                "en que año se creo el consejo directivo",
+                "cual es la funcion de consejo directivo",
+                "cuantos paragrafos tiene el consejo directivo",
+                "cuantos articulos tiene el consejo directivo",
+                "que funcion tiene los articulos en el consejo directivo",
+                "que funcion tiene los paragrafos en el consejo directivo"
+            ],
+            "responses": [
+                "Consejo Directivo es el máximo órgano de dirección y administración de la Institución",
+                "Consejo Directivo es el máximo órgano de dirección y administración de la Institución",
+                "El Gobernador del Departamento del Putumayo o su delegado quien lo presidirá, El Ministro de Educación Nacional o su delegado., Un miembro designado por el Presidente de la República, que haya tenido vínculos con el Sector Universitario.,Un representante de las directivas académicas, uno de los docentes, uno de los egresados, uno de los estudiantes. Uno del sector productivo y un ex-rector del Instituto.,El Rector de la Institución con voz y sin voto.",
+                "El Consejo Directivo del Instituto Tecnológico del Putumayo fue creado en el año 2005, según el Acuerdo No.021 del 31 de octubre de 2005.",
+                "La función del Consejo Directivo es formular la política general del organismo, los planes y programas, definir la organización académica, administrativa y financiera de la institución",
+                "El Consejo Directivo tiene cuatro párrafos en el estatuto general",
+                "El Consejo Directivo tiene un total de cuatro articulo en el estatuto genaral",
+                "Artículo 13: Órganos de Dirección y Administración,Artículo 14: Consejo Directivo,Artículo 15: Secretario del Consejo Directivo,Artículo 16: Calidades, Elección y Período de Permanencia",
+                "Los artículos en el Consejo Directivo establecen las normas, reglas y procedimientos que rigen la organización, funciones y responsabilidades de este órgano de dirección y administración en la institución. ",
+                "Los párrafos en el Consejo Directivo proporcionan aclaraciones, precisiones y detalles adicionales sobre los aspectos mencionados en los artículos. "
+            ]
+        },
+        {
+            "tag": "unidades_formacion",
+            "patterns": [
+                "que es un espacio academico",
+                "como se dividen las unidades de formacion",
+                "como se cancela una unidad de formacion o materias",
+                "como se cancela las unidades de formacion o materias",
+                "puedo adicionar unidades de formacion o materias"
+            ],
+            "responses": [
+                "Una unidad de formación es un conjunto de aprendizajes que conforman el plan de estudios.",
+                "Las unidades se dividen en Fundamentación Básica, Profesional, Socio-Humanística y de Énfasis.",
+                "Un estudiante puede cancelar unidades de formación hasta dos semanas después del primer parcial.",
+                "Cancelar todas las unidades de formación implica retirarse del Instituto.",
+                "Se pueden adicionar unidades de formación antes del primer parcial con aprobación del Docente de Apoyo."
+            ]
+        },
+        {
+            "tag": "curso_intensivo",
+            "patterns": [
+                "que es un curso intesivo",
+                "como o cuando se programa un curso intensivo",
+                "como me inscribo a un curso intensivo"
+            ],
+            "responses": [
+                "Un curso intensivo conserva el contenido programático y se desarrolla con un 60% de presencialidad.",
+                "Los cursos intensivos se programan según disponibilidad presupuestal y aprobación de la Decanatura.",
+                "Para inscribirse a un curso intensivo se requieren prerrequisitos y se debe haber aprobado el promedio necesario."
+            ]
+        }
+       
+    ]
+}
