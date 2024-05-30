@@ -1,6 +1,8 @@
 import streamlit as st
 from chatbot import predict_class, get_response, intents
 
+st.set_page_config(page_title='Chat ITP',page_icon='🤖',layout='centered')
+
 def display_messages(messages):
     for message in messages:
         with st.chat_message(message["role"]):

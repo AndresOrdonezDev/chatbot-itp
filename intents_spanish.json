@@ -83,6 +83,101 @@
                 "Los cursos intensivos se programan según disponibilidad presupuestal y aprobación de la Decanatura.",
                 "Para inscribirse a un curso intensivo se requieren prerrequisitos y se debe haber aprobado el promedio necesario."
             ]
+        },
+        {
+            "tag": "mision",
+            "patterns": [
+                "cual es la mision del Instituto",
+                "que mision tiene el Instituto Tecnologico del Putumayo",
+                "me puedes decir la mision del ITP"
+            ],
+            "responses": [
+                "El Instituto Tecnologico del Putumayo es una institucion publica de Educacion Superior, comprometida con el desarrollo regional, dedicada a la formacion de tecnicos, tecnologos y profesionales a traves de Ciclos Propedeuticos para formar ciudadanos lideres en la transformacion de su entorno.",
+                "La mision del Instituto Tecnologico del Putumayo es formar tecnicos, tecnologos y profesionales comprometidos con el desarrollo regional.",
+                "Estamos dedicados a la formacion de lideres en la transformacion del entorno regional."
+            ]
+        },
+        {
+            "tag": "vision",
+            "patterns": [
+                "cual es la vision del Instituto",
+                "que vision tiene el Instituto Tecnologico del Putumayo",
+                "me puedes decir la vision del ITP"
+            ],
+            "responses": [
+                "El Instituto Tecnologico del Putumayo se consolidara como una Institucion de Educacion superior, acreditada y lider en procesos tecnologicos, socioeconomicos, culturales y ambientales a traves de la investigacion, la docencia y la proyeccion social, en la region andino-amazonica y en el pais.",
+                "Nuestra vision es ser lideres en procesos tecnologicos, socioeconomicos, culturales y ambientales en la region andino-amazonica.",
+                "Queremos consolidarnos como una institucion acreditada y lider en educacion superior."
+            ]
+        },
+        {
+            "tag": "principios",
+            "patterns": [
+                "cuales son los principios del Instituto",
+                "que principios tiene el Instituto Tecnologico del Putumayo",
+                "me puedes decir los principios del ITP"
+            ],
+            "responses": [
+                "Los principios del Instituto Tecnologico del Putumayo son: etica, Autonomia, Democracia Participativa, Idoneidad, Compromiso social, Integracion, Universalidad, Racionalidad, Pertinencia, Sostenibilidad, Sustentabilidad.",
+                "Nuestros principios incluyen etica, Autonomia, y Democracia Participativa.",
+                "Entre nuestros principios se encuentran la Idoneidad y el Compromiso social."
+            ]
+        },
+        {
+            "tag": "valores",
+            "patterns": [
+                "cuales son los valores del Instituto",
+                "que valores tiene el Instituto Tecnologico del Putumayo",
+                "me puedes decir los valores del ITP"
+            ],
+            "responses": [
+                "Los valores del Instituto Tecnologico del Putumayo son: Participacion, Solidaridad y Tolerancia, Respeto, Sentido de Pertenencia, Honestidad, Libertad, Liderazgo.",
+                "Nuestros valores incluyen Participacion, Solidaridad y Tolerancia.",
+                "El Instituto valora el Respeto y el Sentido de Pertenencia."
+            ]
+        },
+        {
+            "tag": "objetivos",
+            "patterns": [
+                "cuales son los objetivos del Instituto",
+                "que objetivos tiene el Instituto Tecnologico del Putumayo",
+                "me puedes decir los objetivos del ITP"
+            ],
+            "responses": [
+                "Los objetivos del Instituto Tecnologico del Putumayo son: orientar la gestion y administracion de los programas academicos, determinar politicas para la docencia, la investigacion y la proyeccion social, establecer lineamientos generales para la estructura organizacional y la gestion de procesos academicos, y desarrollar una estructura presupuestal que permita una gestion efectiva.",
+                "Uno de nuestros objetivos es orientar la gestion y administracion de los programas academicos.",
+                "Tambien buscamos determinar politicas para la docencia, la investigacion y la proyeccion social."
+            ]
+        },
+        {
+            "tag": "politica_calidad",
+            "patterns": [
+                "cual es la politica de calidad del Instituto",
+                "que politica de calidad tiene el Instituto Tecnologico del Putumayo",
+                "me puedes decir la politica de calidad del ITP"
+            ],
+            "responses": [
+                "El Instituto Tecnologico del Putumayo declara la calidad como un compromiso permanente, con el fin de satisfacer las necesidades de sus usuarios, fortaleciendo la docencia, la investigacion y la proyeccion social, garantizando el mejoramiento continuo de los procesos academicos y administrativos.",
+                "Nuestra politica de calidad es satisfacer las necesidades de nuestros usuarios mediante la mejora continua de nuestros procesos.",
+                "Estamos comprometidos con la calidad para fortalecer la docencia, la investigacion y la proyeccion social."
+            ]
+        },
+        {
+            "tag": "derechos_estudiantes",
+            "patterns": [
+                "que derechos tengo como estudiante",
+                "derechos de los estudiantes en el itp",
+                "cuales son mis derechos en el instituto",
+                "derechos estudiantiles basicos en el itp",
+                "como estudiante que garantias tengo"
+            ],
+            "responses": [
+                "Tienes derecho a participar en la vida academica y administrativa del ITP.",
+                "Acceso a educacion de calidad y servicios de apoyo es un derecho fundamental.",
+                "Puedes participar en decisiones a traves de organos representativos estudiantiles.",
+                "Tienes derecho a recursos educativos adecuados y oportunidades de aprendizaje.",
+                "Como estudiante, tienes garantizado el respeto a tus derechos y dignidad personal."
+            ]
         }
        
     ]
